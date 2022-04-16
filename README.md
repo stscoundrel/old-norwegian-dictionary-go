@@ -17,7 +17,7 @@ Related projects:
 
 ## Usage
 
-Text to runes:
+
 ```go
 package main
 
